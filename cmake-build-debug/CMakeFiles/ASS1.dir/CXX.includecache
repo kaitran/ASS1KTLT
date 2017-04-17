@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kaitran/Code/Cpp/KyThuatLapTrinh/ASS1/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+iomanip
+-
+math.h
+-
+
